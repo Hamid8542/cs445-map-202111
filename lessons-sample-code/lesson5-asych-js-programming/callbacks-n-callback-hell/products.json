@@ -1,0 +1,5 @@
+[
+    { "productId": 1001, "name": "Apple", "unitPrice": 1.55 },
+    { "productId": 1002, "name": "Banana", "unitPrice": 0.99 },
+    { "productId": 1003, "name": "Carrot", "unitPrice": 0.60 }
+]
